@@ -1,6 +1,6 @@
 /*Algorithme crytage_de_mot
 variable i,k,l,j:entier;
-	 PHRASE[100]:ch;
+	 PHRASE[100]:chaine de caractere;
 debut
 	ecrire("Ecrire votre phrase:\n");
 	lire(PHRASE);
